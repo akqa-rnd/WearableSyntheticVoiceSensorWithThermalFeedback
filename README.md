@@ -1,7 +1,7 @@
 # Wearable Synthetic Voice Sensor With Thermal Feedback
 As AI starts to robustly understand and synthesise all manner of things, from human speech to the creative style of famous painters, we’re entering an era where anything that can be digitised can be mimicked by AI. 
 
-STYLE TRANSFER
+![Example of Style Transfer from Gene Kogan](http://genekogan.com/images/style-transfer/ml_cubist_expressionist_impressionist.jpg)
 
 The post-truth era is just getting started. Near the end of 2017 it’s possible we’ll be consuming content synthesised to mimic real people. Leaving us in a sea of disinformation powered by AI and machine learning. The media and giant tech corporations already struggle to discern fact from fiction. And as this technology is democratised it will be even more prevalent. 
 
